@@ -1,2 +1,2 @@
 # nlw-6
-This project is based on next level week 5 from RocketSeat.
+This project is based on next level week 6 from RocketSeat.
